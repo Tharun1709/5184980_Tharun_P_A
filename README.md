@@ -12,4 +12,10 @@
   <img src="Linux_week3/Linux_commands/linux_commands_img4.png" alt="Linux_commands" width="500">
   <img src="Linux_week3/Linux_commands/linux_commands_img5.png" alt="Linux_commands" width="500">
   <img src="Linux_week3/Linux_commands/linux_commands_img6.png" alt="Linux_commands" width="500">
+  <img src="Linux_week3/Linux_commands/linux_commands_img7.png" alt="Linux_commands" width="500">
+  <img src="Linux_week3/Linux_commands/linux_commands_img8.png" alt="Linux_commands" width="500">
+  <img src="Linux_week3/Linux_commands/linux_commands_img9.png" alt="Linux_commands" width="500">
+  <img src="Linux_week3/Linux_commands/linux_commands_img10.png" alt="Linux_commands" width="500">
+  <img src="Linux_week3/Linux_commands/linux_commands_img11.png" alt="Linux_commands" width="500">
+
 </p>
