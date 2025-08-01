@@ -1,0 +1,306 @@
+5184980_Tharun_P_A
+list of Linux commands
+
+cd
+pwd
+1s
+pwd
+mkfir project1
+mkdir project1
+1s
+cd project1
+touch test
+ls
+echo "my first text in this"> test.txt
+1s
+rm text
+rm test
+1s
+cat test.txt
+wcw text.txt
+wc w test.txt
+wc-1 test.txt
+wc-m test.txt
+bc
+df
+whoami
+whereis
+whereis test.txt
+echo $SHELL
+printev SHELL
+whereis gcc
+whereis gcc++
+info cat
+cat text.txt
+cat test.txt
+cat test.txt | grep "text"
+date
+date "+%d"
+date "+%D"
+date "+%D +%t"
+date "+%D +%T"
+date "+%D %T"
+date "+%D %T +%Y"
+date "+%D %T %Y"
+date "+%D %T %y"
+date "+%D %M%Y"
+date "+%d %m %Y"
+date "+%D %m %Y"
+date "+%Y-%m-%d"
+date-tomorrow
+date date--tomorrow
+date date--"tomorrow"
+datedate--"tomorrow"
+date--date"tomorrow"
+date --date"tomorrow"
+man date
+cal
+cal -3
+cal 8 2025
+ps
+bc
+bc <<"scale=2;2/5"
+cd project1
+1s
+bc <<<"scale=2;2/5"
+bc <<<"scale=2; 12/5"
+quit
+bc<<<"scale=2;12/8"
+info bc
+bc<<<"4/2"
+bc <<<"4/2"
+uname
+uname -o
+uname -i
+uname -n
+uname -s
+uname -a
+uname -r
+1s
+ls -la
+log
+log --oneline
+echo "well come to my youtube channel"
+echo "welcome to my\" youtube channel\""
+echo "welcome to my\t \" youtube channel\""
+echo "welcome to my \t \" youtube channel\""
+echo "welcome to my "\t" \" youtube channel\""
+echo "welcome to my \" youtube channel\""
+cat test.txt
+cat-r test.txt
+cat -n test.txt
+sort test.txt
+rev test.txt
+echo -e "by second file">b.txt
+1s
+cp b.txt a.txt
+1s
+cat a.txt
+echo "my 1st file">a.txt
+cat a.txt
+nano
+1s
+history
+cat a.txt
+cat b.txt
+nano
+cat b.txt
+1s
+cd
+mkdir project2
+cat project1>project2
+rm project2
+rm -r project2
+1s
+cd project
+cd project1
+cat a.txt>b.txt
+cat b.txt
+echo "my 2nd channel">b.txt
+cat b.txt
+cat a.txt>>b.txt
+cat b.txt
+sort b.txt
+cat -n b.txt
+1s
+cat test.txt
+mv test.txt c.txt
+1s
+cat c.txt
+echo "my 3rd channel">c.txt
+cat b.txt>>c.txt
+cat c.txt
+cat -n c.txt
+seq 1 5
+seq 1 28
+seq -s 14
+seq -s 124
+seq -s 5
+pwd
+15
+ls -la
+echo $?
+nano d.txt
+1s
+cat d.txt
+rm d.txt
+1s
+15 -1
+ls -a
+1s -R
+!-10
+! -10
+!!
+!date
+echo `date`
+echo "happy
+birthday to
+you"
+bc <<< "12/6"
+echo $?
+history
+1s
+pwd
+bc
+bc <<<"scale=2;12/2"
+bc <<<"scale=2; 12/2"
+history
+vi sum.c
+cat sum.c
+gcc sum.c && ./a.out
+vi sum.c
+gcc sum.c && ./a.out
+vi sum.C++
+gcc++ sum.c++ && ./a.out
+g++ sum.c++ && ./a.out
+B
+vi sum.c++
+g++ sum.c++ && ./a.out
+vi sum.c++
+g++ sum.c++ && ./a.out
+history
+g++ sum.c++ && ./a.out
+nano example.txt
+cat example.txt.
+cat example.txt
+nano example.txt
+cat example.txt
+more example.txt
+less example.txt
+head example.txt
+head -n 2 example.txt
+head -n 1 example.txt
+tail example.txt
+tail -n 2 example.txt
+tail -n 1 example.txt
+tail -n 3 example.txt
+tail +3 example.txt
+tail +1 example.txt
+tail -n 4 example.txt
+tail +3 example.txt
+cut -c 1-2 example.txt
+cut -c 1-3 example.txt
+cut -c 4-8 example.txt
+cut -d 4-8 example.txt
+cut -d ":" f2 example.txt
+cut -d ":" -f2 example.txt
+cut -d ":" -f3 example.txt
+cut -d ":" -f2,f3 example.txt
+cut -d ":" -f2,3 example.txt
+cut -d ":" -f1,2 example.txt
+1s
+nano f1
+cat f1
+nano f2
+cat f2
+paste f1 f2
+paste -d ":" f1 f2
+paste -s f1 f2
+cat f1
+cat f2
+paste -s f1 f2
+paste -d ":" f1 f2
+sort f1
+rev f1
+sort example.txt
+rev example
+rev example.txt
+sort -r example.txt
+sort -t ":" -k2 example.txt
+sort -t ":" -k3 example.txt
+sort -t ":" -k3 -r example.txt
+sort -t ":"
+sort -t ":" -k3 example.txt
+sort -t ":" -k3example.txt
+sort -t ":" -k3 example.txt
+sort example.txt
+sort -t ":" -k3 -n example.txt
+sort -t ":" -k2,3 -n example.txt
+sort -t ":" -k3 -n example.txt
+sort -t ":" -k2 -n example.txt
+sort -t ":" -k3 -n example.txt
+sort -t ":" -k3 -n -r example.txt
+tr':''' < example.txt
+tr ':' '=' < example.txt
+cat example.txt
+tr':''' <example.txt> ex.txt
+cat ex.txt
+tr -d '0' < example.txt
+tr':0'$' < sample.txt
+tr':0' '$' < example.txt
+tr :0' '*' < example.txt
+tr -s '0' < example.txt
+tr -d '0' < example.txt
+nano example.txt
+uniq example.txt
+nano example.txt
+uniq example.txt
+nano example.txt
+cat example.txt
+cmp example.txt ex.txt
+cat example.txt
+cat s1.txt
+cat ex.txt
+cmp example.txt ex.txt
+dif example.txt ex.txt
+diff example.txt ex.txt
+history
+1s
+nano sed_test
+cat sed
+cat sed_test
+ls
+nano sed_test
+ls
+cat sed_test
+sed 's/Hellow/Hi' sed_test
+sed 's/Hellow/Hi/' sed_test
+sed -i 's/Hellow/Hi/' sed_test
+cat sed test
+cat sed_test
+sed '/sample/d' sed_test
+ls
+nano emp.txt
+cat emp.txt
+awk '{print '$0'}' emp.txt
+awk '{print $0}' emp.txt
+awk '{print $1,$3}' emp.txt
+awk '{print $1,$2}' emp.txt
+awk '{print $2,$3} emp.txt
+awk 'BEGIN{print Name, Age, Scalary} {print &1,$2,$3}' emp.txt
+awk 'BEGIN{print "Name: Age: Scalary:"} {print &1,$2,$3}' emp.txt
+awk 'BEGIN{print "Name: Age: Scalary:"} {print $1,$2,$3} emp.txt
+awk 'BEGIN{print "Name: Age: Scalary"} {print $1,$2,$3}' emp.txt
+awk '$3 > 50000 {print $1}' emp.txt
+awk '$3 >= 50000 {print $1}' emp.txt
+awk 'BEGIN{print "Name: Age: Scalary:"} {print $1,$2,$3}' emp.txt
+awk '{total+=$3} END {print "total scalary="total}' emp.txt
+awk '{print NR, $1}' emp.txt
+awk '{print NR}' emp.txt
+awk '{printf "Name:%s, Age: %d, Salary: %d\n", $1,$2,$3} emp.txt
+nano emp.txt
+awk '{printf "Name: %s, Age: %d, Salary: %d\n", $1,$2,$3}' emp.txt
+chmod o-r ex.txt
+1s -1 ex.txt
+ls -la
+history
