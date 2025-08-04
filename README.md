@@ -120,5 +120,5 @@ Explore the repository for detailed content:
 - 📁 [Week 2 - Git](./Git_week2/)
 - 📁 [Week 3 - Linux Commands](./Linux_week3/)
 - 📁 [Week 4 - C Programming](./Essentials_of_C_Programming_week4/)
-
+- 📁 [HakerRank](./HakerRank/)
 ---
