@@ -90,6 +90,7 @@ It contains **certificates**, **hands-on exercises**, and **practical command-li
 > - Dynamic memory allocation (malloc, calloc, free)
 > - Structures & typedef
 > - File handling in C
+> - Preprocessor Operators 
 
 <div align="center">
   <img src="Essentials_of_C_Programming_week4/Certificate/Introduction_to_c_certificate.jpg" alt="C Programming Certificate" width="500">
@@ -107,7 +108,7 @@ It contains **certificates**, **hands-on exercises**, and **practical command-li
   - Text processing (`sort`, `cut`, `rev`, `grep`, `awk`, `sed`, `tr`)  
   - File permissions (`chmod`) & system info commands (`uname`, `ps`, `df`)  
   - Piping and redirection (`|`, `>`, `>>`)  
-- **C Programming**: Program structure, variables, loops, conditionals, compilation, and debugging.  
+- **C Programming**: Program structure, variables, loops, conditionals, compilation,multidimention arrys,structures & union, pointers,Memory allocation,FILE handeling and Macros.  
 
 ---
 
