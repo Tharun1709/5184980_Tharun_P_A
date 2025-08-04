@@ -83,9 +83,17 @@ It contains **certificates**, **hands-on exercises**, and **practical command-li
 > - Preprocessor directives (`#include`, `#define`)
 > - Compilation using **GCC**
 > - Writing modular & reusable C code
+> - Pointers & pointer arithmetic
+> - Functions (user-defined & recursive)
+> - Arrays & multi-dimensional arrays
+> - Strings & string handling
+> - Dynamic memory allocation (malloc, calloc, free)
+> - Structures & typedef
+> - File handling in C
 
 <div align="center">
   <img src="Essentials_of_C_Programming_week4/Certificate/Introduction_to_c_certificate.jpg" alt="C Programming Certificate" width="500">
+  <img src="Essentials_of_C_Programming_week4/Certificate/c_intermediate_certificate.jpg" alt="C Programming Intermediate Certificate" width="500">
 </div>
 
 ---
