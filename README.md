@@ -98,6 +98,12 @@ It contains **certificates**, **hands-on exercises**, and **practical command-li
 </div>
 
 ---
+### **✅ Week 5 – Unity Framework**
+
+<div align="center">
+  <img src="UnityFramework_week5/Unity_test_images/Unityframework_img1.jpg" alt="Unityframework" width="500">
+  <img src="UnityFramework_week5/Unity_test_images/Unityframework_img2.jpg" alt="Unityframework Certificate" width="500">
+</div>
 
 ## 🛠️ Skills Learned
 
@@ -120,5 +126,6 @@ Explore the repository for detailed content:
 - 📁 [Week 2 - Git](./Git_week2/)
 - 📁 [Week 3 - Linux Commands](./Linux_week3/)
 - 📁 [Week 4 - C Programming](./Essentials_of_C_Programming_week4/)
+- 📁 [Week 5 - UnityFramework](./UnityFramework_week5/)
 - 📁 [HakerRank](./HakerRank/)
 ---
