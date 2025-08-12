@@ -8,6 +8,7 @@ Welcome to my repository! This is a comprehensive record of my learning journey 
 - **🛠️ Git & Version Control**
 - **🐧 Linux Command Line**
 - **💻 C Programming Fundamentals**
+- **🧪 Unit Testing with Unity Framework**
 
 It contains **certificates**, **hands-on exercises**, and **practical command-line tasks** to showcase my progress and skills.
 
@@ -98,35 +99,59 @@ It contains **certificates**, **hands-on exercises**, and **practical command-li
 </div>
 
 ---
+
 ### **✅ Week 5 – Unity Framework**
 
+> **Topics Covered:**
+> - Introduction to Unit Testing  
+> - Benefits of Unit Testing in Embedded and Systems Programming  
+> - Overview of Test-Driven Development (TDD)  
+> - Challenges of Unit Testing in C  
+> - Creating and Using Header/Source Files  
+> - Compilation and Linking Process  
+> - Writing and Using Makefiles  
+> - Targets, Dependencies, and Commands in Makefiles  
+> - Variables and Pattern Rules in Makefiles  
+> - Integrating Unity Tests in Multifile Projects using Makefiles  
+> - Introduction to Unity Framework  
+> - Installing Unity and Setting Up Folder Structure  
+> - Organizing Test Files and Test Cases  
+> - Unity Macros for Assertions (`TEST_ASSERT_EQUAL`, `TEST_ASSERT_TRUE`, etc.)  
+> - Testing Functions with Return Values, Pointers, Structures, and Arrays  
+> - Grouping and Organizing Tests  
+> - Using Test Fixtures (`setUp()` and `tearDown()`)  
+> - Managing Test Dependencies and Isolating Test Environments  
+> - Running Tests from the Command Line  
+> - Automating Tests with Makefiles and Build Systems  
+
 <div align="center">
-  <h2>Test 1- To find sum and square</h2>
+  <h2>Test 1 - To find sum and square</h2>
   <img src="UnityFramework_week5/Unity_test_images/Unityframework_img1.jpg" alt="Unityframework" width="500">
   <img src="UnityFramework_week5/Unity_test_images/Unityframework_img2.jpg" alt="Unityframework" width="500">
 
-  <h2>Test 2-To find Leapyear</h2>
+  <h2>Test 2 - To find Leapyear</h2>
   <img src="UnityFramework_week5/Unity_test_images/unity_test2_img1.jpg" alt="Unityframework" width="500">
   <img src="UnityFramework_week5/Unity_test_images/unity_test2_img2.jpg" alt="Unityframework" width="500">
 
-  <h2>Test 3-To find even,min & max</h2>
+  <h2>Test 3 - To find even, min & max</h2>
   <img src="UnityFramework_week5/Unity_test_images/unity_test3_img1.jpg" alt="Unityframework" width="500">
   <img src="UnityFramework_week5/Unity_test_images/unity_test3_img2.jpg" alt="Unityframework" width="500">
   <img src="UnityFramework_week5/Unity_test_images/unity_test3_img3.jpg" alt="Unityframework" width="500">
 
-  <h2>Test 4-To find sum of array </h2>
+  <h2>Test 4 - To find sum of array</h2>
   <img src="UnityFramework_week5/Unity_test_images/unity_test4_img1.jpg" alt="Unityframework" width="500">
   <img src="UnityFramework_week5/Unity_test_images/unity_test4_img2.jpg" alt="Unityframework" width="500">
-  
-  <h2>Test 5-To swap two number </h2>
+
+  <h2>Test 5 - To swap two numbers</h2>
   <img src="UnityFramework_week5/Unity_test_images/unity_test5_img1.jpg" alt="Unityframework" width="500">
   <img src="UnityFramework_week5/Unity_test_images/unity_test5_img2.jpg" alt="Unityframework" width="500">
-  
-  <h2>Test 6-To swap array element </h2>
+
+  <h2>Test 6 - To swap array elements</h2>
   <img src="UnityFramework_week5/Unity_test_images/unity_test6_img1.jpg" alt="Unityframework" width="500">
   <img src="UnityFramework_week5/Unity_test_images/unity_test6_img2.jpg" alt="Unityframework" width="500">
 </div>
 
+---
 
 ## 🛠️ Skills Learned
 
@@ -137,7 +162,8 @@ It contains **certificates**, **hands-on exercises**, and **practical command-li
   - Text processing (`sort`, `cut`, `rev`, `grep`, `awk`, `sed`, `tr`)  
   - File permissions (`chmod`) & system info commands (`uname`, `ps`, `df`)  
   - Piping and redirection (`|`, `>`, `>>`)  
-- **C Programming**: Program structure, variables, loops, conditionals, compilation,multidimention arrys,structures & union, pointers,Memory allocation,FILE handeling and Macros.  
+- **C Programming**: Program structure, variables, loops, conditionals, compilation, multidimensional arrays, structures & union, pointers, memory allocation, file handling, and macros.  
+- **Unity Framework**: Writing unit tests, integrating with Makefiles, using test fixtures, and automating tests.
 
 ---
 
