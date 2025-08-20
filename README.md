@@ -152,14 +152,14 @@ It contains **certificates**, **hands-on exercises**, and **practical command-li
 </div>
 
 ---
-### **HakerRank**
+### **✅ HakerRank**
 <div align="center">
   <h2>Problem Solving (Basic) Certificate</h2>
   <img src="HakerRank/Certificates/problem_solving_basic certificate_page-0001.jpg" alt="Problem Solving (Basic) Certificate" width="500">
 
 ---
 
-### 🛠️ Skills Learned
+## 🛠️ Skills Learned  
 
 - **SDLC**: Phases of software development, requirement analysis, and documentation.  
 - **Git**: Version control basics, branching, commits, and repository management.  
@@ -173,14 +173,11 @@ It contains **certificates**, **hands-on exercises**, and **practical command-li
 
 ---
 
-### 🧭 Repository Navigation  
+## 🧭 Repository Navigation  
 
-Explore the repository for detailed content:
-
-- 📁 [Week 1 - SDLC](./SDLC_week1/)  
-- 📁 [Week 2 - Git](./Git_week2/)  
-- 📁 [Week 3 - Linux Commands](./Linux_week3/)  
-- 📁 [Week 4 - C Programming](./Essentials_of_C_Programming_week4/)  
-- 📁 [Week 5 - Unity Framework](./UnityFramework_week5/)  
-- 📁 [HackerRank](./HackerRank/)  
-
+- 📁 [Week 1 - SDLC](./01-SDLC/)  
+- 📁 [Week 2 - Git](./02-Git/)  
+- 📁 [Week 3 - Linux Commands](./03-Linux_Commands/)  
+- 📁 [Week 4 - C Programming](./04-C_Programming/)  
+- 📁 [Week 5 - Unity Framework](./05-UnityFramework/)  
+- 📁 [HackerRank](./06-HackerRank/)  
