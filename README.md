@@ -159,7 +159,7 @@ It contains **certificates**, **hands-on exercises**, and **practical command-li
 
 ---
 
-## 🛠️ Skills Learned
+### 🛠️ Skills Learned
 
 - **SDLC**: Phases of software development, requirement analysis, and documentation.  
 - **Git**: Version control basics, branching, commits, and repository management.  
@@ -173,7 +173,7 @@ It contains **certificates**, **hands-on exercises**, and **practical command-li
 
 ---
 
-## 🧭 Repository Navigation
+### 🧭 Repository Navigation
 
 Explore the repository for detailed content:
 
