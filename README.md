@@ -169,18 +169,18 @@ It contains **certificates**, **hands-on exercises**, and **practical command-li
   - File permissions (`chmod`) & system info commands (`uname`, `ps`, `df`)  
   - Piping and redirection (`|`, `>`, `>>`)  
 - **C Programming**: Program structure, variables, loops, conditionals, compilation, multidimensional arrays, structures & union, pointers, memory allocation, file handling, and macros.  
-- **Unity Framework**: Writing unit tests, integrating with Makefiles, using test fixtures, and automating tests.
+- **Unity Framework**: Writing unit tests, integrating with Makefiles, using test fixtures, and automating tests.  
 
 ---
 
-### 🧭 Repository Navigation
+### 🧭 Repository Navigation  
 
 Explore the repository for detailed content:
 
-- 📁 [Week 1 - SDLC](./SDLC_week1/)
-- 📁 [Week 2 - Git](./Git_week2/)
-- 📁 [Week 3 - Linux Commands](./Linux_week3/)
-- 📁 [Week 4 - C Programming](./Essentials_of_C_Programming_week4/)
-- 📁 [Week 5 - UnityFramework](./UnityFramework_week5/)
-- 📁 [HakerRank](./HakerRank/)
----
+- 📁 [Week 1 - SDLC](./SDLC_week1/)  
+- 📁 [Week 2 - Git](./Git_week2/)  
+- 📁 [Week 3 - Linux Commands](./Linux_week3/)  
+- 📁 [Week 4 - C Programming](./Essentials_of_C_Programming_week4/)  
+- 📁 [Week 5 - Unity Framework](./UnityFramework_week5/)  
+- 📁 [HackerRank](./HackerRank/)  
+
