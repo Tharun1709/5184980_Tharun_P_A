@@ -156,6 +156,9 @@ It contains **certificates**, **hands-on exercises**, and **practical command-li
 <div align="center">
   <h2>Problem Solving (Basic) Certificate</h2>
   <img src="HakerRank/Certificates/problem_solving_basic certificate_page-0001.jpg" alt="Problem Solving (Basic) Certificate" width="500">
+  
+  <h2>Problem Solving (intermediate) Certificate</h2>
+  <img src="HakerRank/Certificates/problem_solving_basic certificate_page-0001.jpg" alt="Problem Solving (Basic) Certificate" width="500">
 </div>
 
 ---
